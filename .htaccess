@@ -1,0 +1,4 @@
+AuthUserFile /webgoat-server/.htpasswd
+AuthType Basic
+AuthName "Restricted Access"
+Require valid-user
